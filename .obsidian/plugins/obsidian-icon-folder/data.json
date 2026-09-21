@@ -1,0 +1,111 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiNotebook",
+      "LiNotepadText",
+      "LiStickyNote",
+      "LiNotebookText"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "Physics/P1/01. Motion.md": {
+    "iconName": "LiNotebookText",
+    "iconColor": "#2fda90"
+  },
+  "Physics/P1/02. Energy.md": {
+    "iconName": "LiNotebookText",
+    "iconColor": "#2fda90"
+  },
+  "Physics/P1/03. Momentum.md": {
+    "iconName": "LiNotebookText",
+    "iconColor": "#2fda90"
+  },
+  "Physics/P1/04. Fluids.md": "LiNotebookText",
+  "Physics/P1/05. Solid Material Properties.md": "LiNotebookText",
+  "Physics/P2/01. Basic Waves.md": "LiNotebookText",
+  "Physics/P2/02. Wave Properties of Light.md": "LiNotebookText",
+  "Physics/P2/03. Quantum Physics.md": "LiNotebookText",
+  "Physics/P1/Formulas.md": {
+    "iconName": "LiNotepadText",
+    "iconColor": "#0012ff"
+  },
+  "Physics/P1": "LiNotebook",
+  "Mathematics/M1/Formulas.md": {
+    "iconName": "LiNotepadText",
+    "iconColor": "#000eff"
+  },
+  "Mathematics/P2/Formulas.md": {
+    "iconName": "LiNotepadText",
+    "iconColor": "#000eff"
+  },
+  "Mathematics/P2/01. Algebraic Methods.md": "LiNotebookText",
+  "Mathematics/P2/02. Coordinate Geometry In The (x, y) Plane.md": "LiNotebookText",
+  "Mathematics/P2/03. Exponentials & Logarithms.md": "LiNotebookText",
+  "Mathematics/P2/04. Binomial Expansion.md": "LiNotebookText",
+  "Mathematics/P2/05. Sequences & Series.md": "LiNotebookText",
+  "Mathematics/P2/06. Trigonometric Identities & Equations.md": "LiNotebookText",
+  "Mathematics/P2/07. Differentiation.md": "LiNotebookText",
+  "Mathematics/P2/08. Integration.md": "LiNotebookText",
+  "Mathematics/P1/09. Integration.md": "LiNotebookText",
+  "Mathematics/P1/08. Differentiation.md": "LiNotebookText",
+  "Mathematics/P1/07. Radians.md": "LiNotebookText",
+  "Mathematics/P1/06. Trigonometric Ratios.md": "LiNotebookText",
+  "Mathematics/P1/05. Straight Line Graphs.md": "LiNotebookText",
+  "Mathematics/P1/04. Graphs & Transformations.md": "LiNotebookText",
+  "Mathematics/P1/03. Equations & Inequalities.md": "LiNotebookText",
+  "Mathematics/P1/02. Quadratics.md": "LiNotebookText",
+  "Mathematics/P1/01. Algebraic Expressions.md": "LiNotebookText",
+  "Physics/P2": "LiNotebook",
+  "Physics/P3": "LiNotebook",
+  "Mathematics/M1": "LiNotebook",
+  "Mathematics/P1": "LiNotebook",
+  "Mathematics/P2": "LiNotebook",
+  "Computer Science/P1": "LiNotebook",
+  "Computer Science/P2": "LiNotebook",
+  "Physics/P2/Formulas.md": {
+    "iconName": "LiNotepadText",
+    "iconColor": "#000eff"
+  },
+  "Physics/P3/CP1. determine the acceleration due to gravity of an object falling freely.md": "LiNotebookText",
+  "Physics/P3/CP2. Using a falling-ball Method to determine the viscosity of a liquid.md": "LiNotebookText",
+  "Physics/P3/CP3. Determine the Young Modulus of a Material.md": "LiNotebookText",
+  "Physics/P3/CP5..md": "LiNotebookText",
+  "Physics/P3/CP6..md": "LiNotebookText",
+  "Physics/P3/CP7..md": "LiNotebookText",
+  "Physics/P3/CP8..md": "LiNotebookText",
+  "Mathematics/M1/01. Modelling & Vectors.md": "LiNotebookText",
+  "Mathematics/M1/02. Kinematics.md": "LiNotebookText",
+  "Mathematics/M1/03. Dynamics.md": "LiNotebookText",
+  "Mathematics/M1/04. Statics & Friction.md": "LiNotebookText",
+  "Mathematics/M1/05. Momentum.md": "LiNotebookText",
+  "Physics/P3/CP4..md": "LiNotebookText",
+  "Mathematics/P1/Formulas.md": {
+    "iconName": "LiNotepadText",
+    "iconColor": "#000eff"
+  }
+}
