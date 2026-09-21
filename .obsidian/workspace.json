@@ -205,11 +205,12 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -231,7 +232,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "54a6c2219d26a2a3",
+  "active": "05848144eb250894",
   "lastOpenFiles": [
     "Physics/P2/Formulas.md",
     "Mathematics/P1/02. Quadratics.md",
