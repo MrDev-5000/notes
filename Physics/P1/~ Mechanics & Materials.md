@@ -4,6 +4,7 @@
 * [ ] **[[03. Momentum]]**
 * [ ] **[[04. Fluids]]**
 * [ ] **[[05. Solid Material Properties]]**
+* [ ]  **[[P1 Formulas (WPH11 01)]]**
 
 ___
 ## PREFIXES
@@ -30,6 +31,6 @@ ___
 - an equation is said to be homogeneous if the base units of every term in the equation are identical
 - all correct equations are homogeneous with respect to its base units
 - all homogeneous equations may not be correct equations
-- Equation x = y + z is said to be homogeneous if Si base unit of 
-    x = SI base unit of y = Si base unit of z
+- Equation x = y + z is said to be homogeneous if 
+	- SI base unit of $x$ = SI base unit of $y$ = SI base unit of $z$
     

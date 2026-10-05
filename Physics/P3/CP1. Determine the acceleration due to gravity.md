@@ -1,3 +1,4 @@
+___
 # <u>Method</u> - 1
 # Object falling through a trap door 
 ## Materials Required
@@ -6,6 +7,9 @@
 - Electromagnet
 - Trap-Door Switch
 - Meter Rule
+
+|     |
+| :-: |
 
 ## Procedure
 - Drop the object from rest and record the time $t$ taken
@@ -43,6 +47,9 @@
 - Vernier Caliper
 - Tube, Stand
 
+|     |
+| :-: |
+
 ## Procedure
 - Drop the object from rest and record the time taken $t$ for the dowel to pass through the light gate
 - Repeat the measurement for twice more and work out the mean value
@@ -60,3 +67,7 @@
 ## Materials required
 - light gate
 
+|     |     |
+| :-: | --- |
+___
+**Links:** **[[~ P3 | Previous: Index]]** | **[[CP2. Determine the Viscosity of a Liquid | Next: CP2]]**

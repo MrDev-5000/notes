@@ -49,11 +49,6 @@
   "Physics/P1/05. Solid Material Properties.md": "LiNotebookText",
   "Physics/P2/01. Basic Waves.md": "LiNotebookText",
   "Physics/P2/02. Wave Properties of Light.md": "LiNotebookText",
-  "Physics/P2/03. Quantum Physics.md": "LiNotebookText",
-  "Physics/P1/Formulas.md": {
-    "iconName": "LiNotepadText",
-    "iconColor": "#0012ff"
-  },
   "Physics/P1": "LiNotebook",
   "Mathematics/M1/Formulas.md": {
     "iconName": "LiNotepadText",
@@ -64,22 +59,46 @@
     "iconColor": "#000eff"
   },
   "Mathematics/P2/01. Algebraic Methods.md": "LiNotebookText",
-  "Mathematics/P2/02. Coordinate Geometry In The (x, y) Plane.md": "LiNotebookText",
-  "Mathematics/P2/03. Exponentials & Logarithms.md": "LiNotebookText",
-  "Mathematics/P2/04. Binomial Expansion.md": "LiNotebookText",
-  "Mathematics/P2/05. Sequences & Series.md": "LiNotebookText",
+  "Mathematics/P2/02. Coordinate Geometry In The (x, y) Plane.md": {
+    "iconName": "LiNotebookText",
+    "iconColor": "#ff0000"
+  },
+  "Mathematics/P2/03. Exponentials & Logarithms.md": {
+    "iconName": "LiNotebookText",
+    "iconColor": "#ff0000"
+  },
+  "Mathematics/P2/04. Binomial Expansion.md": {
+    "iconName": "LiNotebookText",
+    "iconColor": "#ff0000"
+  },
+  "Mathematics/P2/05. Sequences & Series.md": {
+    "iconName": "LiNotebookText",
+    "iconColor": "#ff0000"
+  },
   "Mathematics/P2/06. Trigonometric Identities & Equations.md": "LiNotebookText",
   "Mathematics/P2/07. Differentiation.md": "LiNotebookText",
-  "Mathematics/P2/08. Integration.md": "LiNotebookText",
+  "Mathematics/P2/08. Integration.md": {
+    "iconName": "LiNotebookText",
+    "iconColor": "#ff0000"
+  },
   "Mathematics/P1/09. Integration.md": "LiNotebookText",
   "Mathematics/P1/08. Differentiation.md": "LiNotebookText",
   "Mathematics/P1/07. Radians.md": "LiNotebookText",
   "Mathematics/P1/06. Trigonometric Ratios.md": "LiNotebookText",
-  "Mathematics/P1/05. Straight Line Graphs.md": "LiNotebookText",
+  "Mathematics/P1/05. Straight Line Graphs.md": {
+    "iconName": "LiNotebookText",
+    "iconColor": "#ff0000"
+  },
   "Mathematics/P1/04. Graphs & Transformations.md": "LiNotebookText",
   "Mathematics/P1/03. Equations & Inequalities.md": "LiNotebookText",
-  "Mathematics/P1/02. Quadratics.md": "LiNotebookText",
-  "Mathematics/P1/01. Algebraic Expressions.md": "LiNotebookText",
+  "Mathematics/P1/02. Quadratics.md": {
+    "iconName": "LiNotebookText",
+    "iconColor": "#ff0000"
+  },
+  "Mathematics/P1/01. Algebraic Expressions.md": {
+    "iconName": "LiNotebookText",
+    "iconColor": "#ff0000"
+  },
   "Physics/P2": "LiNotebook",
   "Physics/P3": "LiNotebook",
   "Mathematics/M1": "LiNotebook",
@@ -87,25 +106,27 @@
   "Mathematics/P2": "LiNotebook",
   "Computer Science/P1": "LiNotebook",
   "Computer Science/P2": "LiNotebook",
-  "Physics/P2/Formulas.md": {
-    "iconName": "LiNotepadText",
-    "iconColor": "#000eff"
-  },
-  "Physics/P3/CP1. determine the acceleration due to gravity of an object falling freely.md": "LiNotebookText",
-  "Physics/P3/CP2. Using a falling-ball Method to determine the viscosity of a liquid.md": "LiNotebookText",
   "Physics/P3/CP3. Determine the Young Modulus of a Material.md": "LiNotebookText",
-  "Physics/P3/CP5..md": "LiNotebookText",
-  "Physics/P3/CP6..md": "LiNotebookText",
-  "Physics/P3/CP7..md": "LiNotebookText",
-  "Physics/P3/CP8..md": "LiNotebookText",
   "Mathematics/M1/01. Modelling & Vectors.md": "LiNotebookText",
   "Mathematics/M1/02. Kinematics.md": "LiNotebookText",
   "Mathematics/M1/03. Dynamics.md": "LiNotebookText",
   "Mathematics/M1/04. Statics & Friction.md": "LiNotebookText",
   "Mathematics/M1/05. Momentum.md": "LiNotebookText",
-  "Physics/P3/CP4..md": "LiNotebookText",
   "Mathematics/P1/Formulas.md": {
     "iconName": "LiNotepadText",
-    "iconColor": "#000eff"
+    "iconColor": "#0000ff"
+  },
+  "Physics/P2/03. 3D Quantum Physics.md": "LiNotebookText",
+  "Physics/P3/CP4. Determine the EMF and Internal Resistance of an Electrical cell.md": "LiNotebookText",
+  "Physics/P3/CP5. Determine the Electrical Resistivity of a Material.md": "LiNotebookText",
+  "Physics/P3/CP7. Determine the Speed of Sound in Air.md": "LiNotebookText",
+  "Physics/P3/CP2. Determine the Viscosity of a Liquid.md": "LiNotebookText",
+  "Physics/P3/CP8. Determine the Wavelength of Light.md": "LiNotebookText",
+  "Physics/P3/CP1. Determine the acceleration due to gravity.md": "LiNotebookText",
+  "Physics/P3/CP6. Determine factors affecting the Frequency of a Vibrating String.md": "LiNotebookText",
+  "Physics/P2/04. Electricity.md": "LiNotebookText",
+  "Physics/Formulas.md": {
+    "iconName": "LiNotepadText",
+    "iconColor": "#0011ff"
   }
 }

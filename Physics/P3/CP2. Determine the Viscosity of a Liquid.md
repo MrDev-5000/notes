@@ -1,3 +1,4 @@
+___
 #### Aim: 
 To determine the viscosity of a liquid by measuring the terminal velocity of a falling sphere
 
@@ -50,3 +51,5 @@ $$v=\frac{2g[\rho_s - \rho_f]}{9\eta}r^2$$
 - Spillage: Viscous liquids are incredibly slippery. Clean up drips immediately.
 - Glassware: Handle the tall cylinder with care; it is top-heavy when filled.
 - Magnets: Use a magnet to retrieve balls rather than sticking hands into chemicals.
+___
+**Links:** **[[CP1. Determine the acceleration due to gravity | Previous: CP1]]** | **[[CP3. Determine the Young Modulus of a Material | Next: CP2]]** | **[[~ P3 | Index]]**

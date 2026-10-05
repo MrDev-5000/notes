@@ -1,10 +1,10 @@
-- [ ] **[[01. Algebraic Expressions]]**
-- [ ] **[[02. Quadratics]]**
+- [x] **[[01. Algebraic Expressions]]**
+- [x] **[[02. Quadratics]]**
 - [ ] **[[03. Equations & Inequalities]]**
 - [ ] **[[04. Graphs & Transformations]]**
-- [ ] **[[05. Straight Line Graphs]]**
+- [x] **[[05. Straight Line Graphs]]**
 - [ ] **[[06. Trigonometric Ratios]]**
 - [ ] **[[07. Radians]]**
-- [ ] **[[08. Differentiation]]**
-- [ ] **[[09. Integration]]**
+- [x] **[[08. Differentiation]]**
+- [x] **[[09. Integration]]**
 

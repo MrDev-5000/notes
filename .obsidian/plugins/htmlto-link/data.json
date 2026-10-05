@@ -1,0 +1,26 @@
+{
+  "apiBaseUrl": "https://htmlto.link",
+  "apiToken": "",
+  "templateId": "professional",
+  "themeClass": "",
+  "language": "auto",
+  "copyLinkOnSuccess": true,
+  "openInBrowser": false,
+  "writeShareToNote": true,
+  "showOptionsOnPublish": true,
+  "autoUpdateOnSave": false,
+  "uploadedAssets": {},
+  "noteShares": {
+    "Mathematics/P1/08. Differentiation.md": {
+      "slug": "s7r1j2i5",
+      "updateToken": "2bd30a2a2070573dbf83a3f1f5d474b3c6280db0bbf8eeb6",
+      "url": "https://htmlto.link/s7r1j2i5",
+      "updatedAt": "2026-10-05T07:53:43.064Z",
+      "temporary": true,
+      "expiresAt": "2026-10-06T07:53:44.025Z",
+      "templateId": "plain",
+      "themeClass": "",
+      "contentHash": "1b8863df3c4c7b"
+    }
+  }
+}

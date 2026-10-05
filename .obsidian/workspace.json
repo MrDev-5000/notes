@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f6bd98691cbda699",
+        "id": "189e8a42903e1333",
         "type": "tabs",
         "children": [
           {
-            "id": "05848144eb250894",
+            "id": "cefdedd8799f3eb6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/P2/Formulas.md",
+                "file": "Physics/P1/02. Energy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Formulas"
-            }
-          },
-          {
-            "id": "d48fd55708f98051",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://github.com/vinzent03/obsidian-git/tree/6bed6fbef2c1204e69d7a3005b0b2a478e4022ab#-mobile-support-%EF%B8%8F--experimental",
-                "title": "GitHub - Vinzent03/obsidian-git at 6bed6fbef2c1204e69d7a3005b0b2a478e4022ab · GitHub",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "GitHub - Vinzent03/obsidian-git at 6bed6fbef2c1204e69d7a3005b0b2a478e4022ab · GitHub"
+              "title": "02. Energy"
             }
           }
         ]
@@ -97,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.70001220703125
+    "width": 314.3000183105469
   },
   "right": {
     "id": "0af744a675e7cffb",
@@ -175,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "M1/01. Modelling & Vectors.md",
+                "file": "Physics/P1/01. Motion.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -205,12 +191,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -229,49 +214,52 @@
       "obsidian-excalidraw-plugin:New drawing": false,
       "print:Print note": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "export-readview-pdf:将当前阅读视图导出为PDF": false,
+      "htmlto-link:Share current note": false
     }
   },
-  "active": "05848144eb250894",
+  "active": "cefdedd8799f3eb6",
   "lastOpenFiles": [
-    "Physics/P2/Formulas.md",
+    "Physics/P2/Untitled 2.md",
+    "Physics/P1/02. Energy.md",
+    "Physics/P1/01. Motion.md",
+    "Physics/P1/04. Fluids.md",
+    "Mathematics/P1/06. Trigonometric Ratios.md",
+    "Mathematics/P1/04. Graphs & Transformations.md",
+    "Mathematics/P1/03. Equations & Inequalities.md",
+    "Computer Science/P1/08. Databases.md",
+    "Computer Science/P1/07. Ethics & Ownership.md",
+    "Computer Science/P1/06. Security, Privacy & Data Integrity.md",
+    "Computer Science/P1/05. System Software.md",
+    "Computer Science/P1/03. Hardware.md",
+    "Computer Science/P1/02. Communication.md",
+    "Computer Science/P1/01. Information Representation & Multimedia.md",
+    "Mathematics/M1/03. Dynamics.md",
+    "Mathematics/P2/01. Algebraic Methods.md",
+    "Mathematics/P2/03. Exponentials & Logarithms.md",
+    "Mathematics/P2/06. Trigonometric Identities & Equations.md",
+    "Mathematics/P2/05. Sequences & Series.md",
+    "Mathematics/P2/07. Differentiation.md",
+    "Mathematics/P2/08. Integration.md",
+    "Mathematics/P2/Formulas.md",
+    "Mathematics/P1/08. Differentiation.md",
+    "Mathematics/P1/07. Radians.md",
     "Mathematics/P1/02. Quadratics.md",
     "Mathematics/P1/01. Algebraic Expressions.md",
-    "Mathematics/M1/~ Mechanics 1.md",
-    "Physics/P3/CP4..md",
-    "Physics/P2/~ Waves, Particle Nature of Light & Electric Circuits.md",
-    "Physics/P3/~ P3.md",
-    "Physics/P1/~ Mechanics & Materials.md",
-    "Mathematics/P1/~ Pure Mathematics 1.md",
-    "Mathematics/P2/~ Pure Mathematics 2.md",
-    "Mathematics/P2/07. Differentiation.md",
-    "Mathematics/P2/04. Binomial Expansion.md",
-    "Mathematics/P2/05. Sequences & Series.md",
-    "Mathematics/P2/03. Exponentials & Logarithms.md",
-    "Mathematics/P2/02. Coordinate Geometry In The (x, y) Plane.md",
-    "Mathematics/P2/01. Algebraic Methods.md",
-    "Mathematics/M1/Formulas.md",
-    "Mathematics/M1/05. Momentum.md",
-    "Mathematics/M1/04. Statics & Friction.md",
-    "Mathematics/M1/03. Dynamics.md",
-    "Physics/P2/01. Basic Waves.md",
-    "Physics/P3/CP2. Using a falling-ball Method to determine the viscosity of a liquid.md",
-    "Physics/P3/CP1. determine the acceleration due to gravity of an object falling freely.md",
-    "Physics/P2/03. Quantum Physics.md",
-    "Physics/P1/01. Motion.md",
-    "Physics/P1/02. Energy.md",
+    "04. Binomial Expansion.readview.pdf",
+    "01. Algebraic Expressions.readview.pdf",
+    "viber_image_2026-10-04_11-48-07-745.jpg",
+    "Formulas.readview.pdf",
+    "02. Quadratics.readview.pdf",
+    "Computer Science/P1/MindMap.canvas",
     "Untitled.base",
     "Untitled 1.canvas",
     "Excalidraw",
     "Untitled.canvas",
-    "Computer Science/P1/MindMap.canvas",
     "Mathematics/P3/New Text Document.txt",
     "Computer Science/P2",
     "Computer Science/P1",
-    "Physics/P3",
-    "Physics/P2",
-    "Physics/P1",
-    "Computer Science",
-    "Physics"
+    "Physics/P3"
   ]
 }

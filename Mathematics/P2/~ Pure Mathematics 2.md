@@ -3,6 +3,6 @@
 - [ ] **[[03. Exponentials & Logarithms]]**
 - [ ] **[[04. Binomial Expansion]]**
 - [ ] **[[05. Sequences & Series]]**
-- [ ] **[[06. Trigonometric Ratios]]**
+- [ ] **[[06. Trigonometric Identities & Equations]]**
 - [ ] **[[07. Differentiation]]**
 - [ ] **[[08. Integration]]**
